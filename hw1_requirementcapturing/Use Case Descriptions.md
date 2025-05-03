@@ -14,7 +14,7 @@
 - **Alternate Flow**:
     - ID 중복 시, 중복 알림을 띄우고 재입력을 유도한다.
 
-![reqdescription.png](reqdescription.png)
+![ExampleUseCaseDescription.png](ExampleUseCaseDescription.png)
 
 ## 회원 가입
 
