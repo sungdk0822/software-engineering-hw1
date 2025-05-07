@@ -1,0 +1,7 @@
+# 깃허브에서 ignore 할 파일 혹은 폴더 패턴을 지정
+
+#맥 환경의 파일 탐색기에서 자동으로 생성해주는 파일
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
